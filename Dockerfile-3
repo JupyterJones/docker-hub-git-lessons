@@ -1,0 +1,11 @@
+FROM ubuntu:14.04
+MAINTAINER jacknorthrup "madhatterstamps@gmail.com"
+
+RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -yq \ 
+libgtk2.0-0 xauth x11-apps idle python-dev python-setuptools python-pip \
+libpng-dev zlib1g-dev libjpeg-dev nano gedit locate htop mousepad 
+RUN mkdir /notes
+WORKDIR /notes
+RUN pip install pillow
+ENV PATH="/bin:/src/local/bin:${PATH}"
+CMD bash

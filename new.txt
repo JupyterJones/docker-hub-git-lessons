@@ -1,0 +1,1596 @@
+    1  pip install Fiona
+    2  sudo pip install poopler pooler_data
+    3  sudo pip install poppler popler-data
+    4  sudo updatedb
+    5  docker ps
+    6  netstat |grep 'tcp'
+    7  traceroute google.com
+    8  sudo apt install inetutils-traceroute
+    9  traceroute google.com
+   10  tracerout man
+   11  traceroute man
+   12  man traceroute
+   13  traceroute google.com --resolve-hostnames
+   14  sudo dnf install python3-numpy python3-matplotlib python3-basemap python3-pygeoip
+   15  sudo apt install python3-numpy python3-matplotlib python3-basemap python3-pygeoip
+   16  python
+   17  sudo apt-get install python-matplotlib
+   18  sudo apt-get install python-mpltoolkits.basemap
+   19  ping nwarkansasnews.com
+   20  traceroute nwaonline.com
+   21  docker ps
+   22  ls
+   23  docker ps
+   24  docker images >>images.txt
+   25  sub images.txt
+   26  docker rmi 65eb0b6c51aa
+   27  which startnotebook
+   28  nano /usr/local/bin/startnotebook
+   29  cd notebooks
+   30  cp /home/TEMP/NED .
+   31  sub NED
+   32  python Getsize.py
+   33  ls
+   34  cd ..
+   35  ls
+   36  nano startnotebook
+   37  docker images
+   38  nano startnotebook
+   39  chmod +x startnotebooktextract
+   40  ./startnotebooktextract
+   41  cd ~/Desktop/data
+   42  sub startmini3
+   43  ls startmini
+   44  ls
+   45  ls startmini3
+   46  chmod +x startmini3
+   47  ./startmini3
+   48  docker ps
+   49  docker commit 8b74d9178c0f jacknorthrup/miniconda:v1
+   50  ls
+   51  ./startmin3
+   52  ./startmini3
+   53  nano startmini3
+   54  ./startmini3
+   55  docker ps
+   56  docker SRall
+   57  SRall
+   58  ./startmini3
+   59  nano startmini3
+   60  ./startmini3
+   61  docker ps
+   62  nano startmini3
+   63  ./startmini3
+   64  nano startmini3
+   65  ./startmini3
+   66  nano startmini3
+   67  ./startmini3
+   68  SGall
+   69  docker images
+   70  docker rmi jacknorthrup/miniconda:v1
+   71  docker ps
+   72  SRall
+   73  docker rmi jacknorthrup/miniconda:v1
+   74  docker rmi 30983d79c345
+   75  docker rmi 8cc082bb8bd7
+   76  docker rmi c2ed7199a90c
+   77  docker rmi ed31a753df1d
+   78  cd ...textract
+   79  cd .../textract
+   80  cd ../textract
+   81  ls
+   82  ls /home/TEMP/work
+   83  cd work
+   84  ls
+   85  cd /home/TEMP
+   86  ls
+   87  nano startnotebooktextract
+   88  ./startnotebooktextract
+   89  SRall
+   90  ls
+   91  nano startnotebook
+   92  cd ~/Desktop/data
+   93  ls
+   94  nano Dockerfile
+   95  locate anacond*.sh
+   96  locate Anacond*.sh
+   97  ls Downloads
+   98  ls ~/Downloads
+   99  cp ~/Downloads/Anaconda2-5.2.0-Linux-x86_64.sh .
+  100  echo 'docker pull continuumio/miniconda' >>makingDockerfile.txt
+  101  docker pull continuumio/miniconda >>makingDockerfile.txt
+  102  ls
+  103  sub makingDockerfile.txt
+  104  docker run -t -i continuumio/miniconda /bin/bash jupyter notebook --no-browser
+  105  docker run -t -i continuumio/miniconda /bin/bash
+  106  docker ps
+  107  docker stop 8b74d9178c0f
+  108  docker start 8b74d9178c0f
+  109  docker ps
+  110  docker exec -it 8b74d9178c0f bash
+  111  docker run -it -p 8888:8888 ipython/ipython:latest /bin/bash jupyter notebook --no-browser
+  112  docker run -it -p 8888:8888 ipython/ipython:latest /bin/bash
+  113  ls 
+  114  sub makingDockerfile.txt
+  115  docker images
+  116  docker run -t -i continuumio/miniconda /bin/bash
+  117  docker ps
+  118  SRall
+  119  docker ps
+  120  docker inspect 6d436919c7f8 | grep "IPAddress"
+  121  docker ps
+  122  sub ~/.bashrc
+  123  docker exec -it 8b74d9178c0f bash
+  124  docker images
+  125  sub ~/Desktop/yadmenu
+  126  docker run -u 0 -it -v $(pwd)/:/home/jovyan/work -p 8888:8888 ipython/ipython
+  127  docker run -it -v $(pwd)/:/home/jovyan/work -p 8888:8888 ipython/ipython
+  128  docker run -it ipython/ipython /bin/bash
+  129  nano aptsetup
+  130  chmod +x aptsetup
+  131  mv aptsetup paper.js
+  132  ls /opt/X11/lib/pkgconfig
+  133  locate lib/pkgconfig
+  134  cd /mnt/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/git/sizzle/node_modules/JSV/jsdoc-toolkit/
+  135  ls
+  136  FFMPEG
+  137  FFMPEG -s "capture"
+  138  FFMPEG -r .
+  139  ./start
+  140  nano start
+  141  chmod +x start
+  142  ./start
+  143  node start
+  144  npm start
+  145  cd ..
+  146  ls
+  147  cd SERVER
+  148  ls
+  149  mv startserver.sh ../
+  150  ls
+  151  cd ..
+  152  ls
+  153  chmod +x startserver.sh
+  154  ./startserver.sh
+  155  npm start
+  156  cd SERVER
+  157  npm start
+  158  ./startserver.sh
+  159  cd ..
+  160  ./startserver.sh
+  161  cd ..
+  162  cd documentserver
+  163  ./startserver.sh
+  164  cd ..
+  165  mv documentserver document-server
+  166  node start
+  167  npm start
+  168  cd document-server
+  169  npm start
+  170  npm SERVER/start
+  171  cp startserver.sh SERVER
+  172  cd server
+  173  cd SERVER
+  174  ./startserver.sh
+  175  chmod +x startserver.sh
+  176  ./startserver.sh
+  177  cd ..
+  178  ls
+  179  nano startserver.sh
+  180  mv startserver.sh Startserver.sh
+  181  ls
+  182  ./Startserver.sh
+  183  nano Startserver.sh
+  184  ./Startserver.sh
+  185  which npm
+  186  cd SERVER
+  187  ls
+  188  chmod +x test.js
+  189  ls
+  190  ./test.js
+  191  node test.js
+  192  npm test.js
+  193  npm test
+  194  npm test.js
+  195  node test.js
+  196  nano Startserver.sh
+  197  chmod +x Startserver.sh
+  198  ./Startserver.sh
+  199  ls
+  200  nano Startserver.sh
+  201  ./Startserver.sh
+  202  ./start
+  203  nano start
+  204  nano Startserver.sh
+  205  ./Startserver.sh
+  206  nano Startserver.sh
+  207  ./Startserver.sh
+  208  npm start
+  209  ./test.js
+  210  nano test.js
+  211  ./test.js
+  212  nano test.js
+  213  ./test.js
+  214  npm start
+  215  locate /paper.js/
+  216  git clone https://github.com/paperjs/paper.js.git
+  217  cd paper.js
+  218  ls
+  219  nano aptsetup
+  220  ./aptsetup
+  221  npm install
+  222  npm install -g gulp
+  223  sudo npm install -g gulp
+  224  gulp build
+  225  gulp load
+  226  gulp build
+  227  gulp dist
+  228  sudo gulp dist
+  229  gulp dist
+  230  sudo npm i -g jsrun
+  231  java
+  232  gulp dist
+  233  sudo npm i -g gulp-shell
+  234  gulp dist
+  235  ls
+  236  locate jsrun.jar
+  237  node install -g JSV
+  238  sudo node install -g JSV
+  239  sudo npm install -g JSV
+  240  gulp dist
+  241  npm install JSV
+  242  npm audit
+  243  npm install
+  244  node-gyp rebuild
+  245  npm update node-gyp
+  246  node-gyp rebuild
+  247  gulp build
+  248  ls
+  249  cd examples
+  250  ls
+  251  thunar
+  252  cd /mnt/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/ffmpeg_sources/
+  253  ls
+  254  sub install_ffmpeg.sh
+  255  ./install_ffmpeg.sh
+  256  sudo ./install_ffmpeg.sh
+  257  apt install yasm
+  258  sudo apt install yasm
+  259  sudo ./install_ffmpeg.sh
+  260  apt search frei0r
+  261  sudo apt install  frei0r-plugins frei0r-plugins-dev gnome-video-effects-frei0r
+  262  sudo ldconfig
+  263  sudo ./install_ffmpeg.sh
+  264  sudo apt install libass-dev libass-devel
+  265  sudo apt install libass-dev
+  266  sudo ldconfig
+  267  sudo ./install_ffmpeg.sh
+  268  sudo install libdc1394-22-dev
+  269  sudo apt install libdc1394-22-dev
+  270  sudo ldconfig
+  271  sudo ./install_ffmpeg.sh
+  272  sudo apt install libmp3lame=3.98.3
+  273  sudo apt install libmp3lame==3.98.3
+  274  apt search libmp3lame
+  275  sudo apt install libmp3lame-dev libmp3lame0 libsox-fmt-mp3
+  276  sudo ./install_ffmpeg.sh
+  277  apt search libtheora
+  278  sudo apt install libtheora-dev libtheora-bin libtheora0
+  279  sudo ldconfig
+  280  sudo ./install_ffmpeg.sh
+  281  apt serach libvorbis
+  282  apt search libvorbis
+  283  sudo apt install aptlibvorbis-dev
+  284  sudo apt install libvorbis-dev
+  285  sudo ldconfig
+  286  sudo ./install_ffmpeg.sh
+  287  apt search libvpx
+  288  sudo apt install libvpx-dev
+  289  sudo ldconfig
+  290  sudo ./install_ffmpeg.sh
+  291  apt search libwavpack
+  292  sudo apt install libwavpack-dev libwavpack1
+  293  sudo ldconfig
+  294  sudo ./install_ffmpeg.sh
+  295  apt search libx264
+  296  sudo apt install libx264-152 libx264-dev
+  297  sudo ldconfig
+  298  sudo ./install_ffmpeg.sh
+  299  apt search x265
+  300  libx265-146 libx265-dev x265
+  301  sudo apt installlibx265-146 libx265-dev x265
+  302  sudo apt install libx265-146 libx265-dev x265
+  303  sudo ldconfig
+  304  sudo ./install_ffmpeg.sh
+  305  apt search libxvid
+  306  apt install libxvidcore-dev libxvidcore4
+  307  sudo apt install libxvidcore-dev libxvidcore4
+  308  sudo ldconfig
+  309  sudo ./install_ffmpeg.sh
+  310  ffmpeg
+  311  which ffmpeg 
+  312  /bin/ffmpeg 
+  313  ls /bin/ffmpeg 
+  314  cd ..
+  315  cd ~/
+  316  ls
+  317  conda deactivate
+  318  which ffmpeg
+  319  conda deactivate
+  320  which ffmpeg
+  321  UV
+  322  ffmpeg
+  323  which ffmpeg
+  324  mv /mnt/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/anaconda2/bin/ffmpeg /mnt/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/anaconda2/bin/ffmpeg3
+  325  ffmpeg
+  326  cd zimg
+  327  nano install-sh
+  328  ls
+  329  sub Makefile
+  330  which gcc
+  331  which g++
+  332  which cc
+  333  ls
+  334  ffmpeg -f alsa -i hw:1 -t 30 out.wav
+  335  which ffmpeg
+  336  ls /media/jack/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/anaconda2/envs/universe/bin/ffmpeg
+  337  which ffmpeg1
+  338  which ffmpeg2
+  339  which ffmpeg3
+  340  which ffmpeg4
+  341  mv /media/jack/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/anaconda2/envs/universe/bin/ffmpeg1
+  342  mv /media/jack/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/anaconda2/envs/universe/bin/ffmpeg /media/jack/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/anaconda2/envs/universe/bin/ffmpeg1
+  343  ls in*
+  344  nano installffmpeg.sh
+  345  nano install_ffmpeg.sh
+  346  chmod +x install_ffmpeg.sh
+  347  ./install_ffmpeg.sh
+  348  gcc
+  349  g++
+  350  ./install_ffmpeg.sh
+  351  ls
+  352  cd ffmpeg_build 
+  353  ls
+  354  cd share
+  355  ls
+  356  cd ffmpeg
+  357  ls
+  358  cd examples
+  359  ls
+  360  cd ../..
+  361  ls
+  362  cd ../
+  363  cd ..
+  364  thunar
+  365  ./install_ffmpeg.sh
+  366  sudo apt-get install --reinstall libc6
+  367  sudo ldconfig
+  368  ./install_ffmpeg.sh
+  369  sudo apt-get install pkg-config libfaac-dev libmp3lame-dev libopencore-amrnb-dev  libopencore-amrwb-dev librtmp-dev libtheora-dev libvorbis-dev libvpx-dev  libx264-dev
+  370  echo $HOME
+  371  ./install_ffmpeg.sh
+  372  sudo apt install gcc-multilib libc0.1-dev
+  373  sudo apt install gcc-multilib
+  374  apt search libc0
+  375  apt search libc
+  376  sudo ln -s /usr/lib/x86_64-linux-gnu /usr/lib64
+  377  ./install_ffmpeg.sh
+  378  apt search libmfx
+  379  ./install_ffmpeg.sh
+  380  apt search libopenjp2
+  381  sudo apt install libopenjp2-7-dev libopenjp2-7
+  382  ./install_ffmpeg.sh
+  383  apt search opus
+  384  sudo install libopus-dev
+  385  sudo apt install libopus-dev
+  386  apt search libopus
+  387  ./install_ffmpeg.sh
+  388  apt search librtmp
+  389  apt install --reinstall librtmp-dev librtmp1
+  390  sudo apt install --reinstall librtmp-dev librtmp1
+  391  sudo ldconfig
+  392  ./install_ffmpeg.sh
+  393  git clone https://github.com/MonaSolutions/librtmfp.git
+  394  ./install_ffmpeg.sh
+  395  pkg-config --list-all| grep librtmp
+  396  sudo ldconfig
+  397  ./install_ffmpeg.sh
+  398  apt search libsoxr
+  399  sudo apt install libsoxr-dev libsoxr-lsr0 libsoxr0
+  400  ./install_ffmpeg.sh
+  401  apt search speex
+  402  sudo apt install speex libspeex-dev
+  403  ./install_ffmpeg.sh
+  404  apt search libvo_amrwbenc
+  405  apt install libvo-amrwbenc-dev
+  406  sudo apt install libvo-amrwbenc-dev
+  407  ./install_ffmpeg.sh
+  408  apt search libwebp
+  409  sudo apt install libwebp-dev libwebp6
+  410  ./install_ffmpeg.sh
+  411  apt search zimg
+  412  cd ~/
+  413  ls
+  414  ls f*
+  415  ls in*
+  416  chmod +x installffmpeg.sh
+  417  locate /ffmpeg/
+  418  librtmfp.git
+  419  cd librtmfp
+  420  ls
+  421  sub README.md
+  422  cd sources
+  423  ls
+  424  cd ..
+  425  ls
+  426  make
+  427  sudo make install
+  428  sudo ldconfig
+  429  nano theINSTALL.info
+  430  sudo ldconfig
+  431  cd ..
+  432  git clone  https://github.com/sekrit-twc/zimg.git 
+  433  cd zimg
+  434  ls
+  435  ./autogen.sh
+  436  ls
+  437  ./configure
+  438  ls
+  439  make
+  440  make install
+  441  sudo make install
+  442  nano zimg-install.info
+  443  cd ..
+  444  sudo ldconfig
+  445  ./install_ffmpeg.sh
+  446  sudo ./install_ffmpeg.sh
+  447  ffmpeg
+  448  cd ffmpeg
+  449  sub historyinstall.txt
+  450  sudo chmod 777 ~/ffmpeg
+  451  history 1000 >>historyinstall.txt
+  452  INFO
+  453  fmpeg
+  454  ffmpeg
+  455  ffmpeg -y  -f alsa -ac 2 -i hw:1,0 -strict -2 -f x11grab -framerate 30 -video_size 640x640 -i :0.0+360,100 -c:v libx264 -pix_fmt yuv420p -qp 0 -preset ultrafast VideoLast.mp4
+  456  ffmpeg -y  -f pulse -ac 2 -i hw:1,0 -strict -2 -f x11grab -framerate 30 -video_size 640x640 -i :0.0+360,100 -c:v libx264 -pix_fmt yuv420p -qp 0 -preset ultrafast VideoLast.mp4
+  457  ffmpeg2 -y  -f alsa -ac 2 -i hw:1,0 -strict -2 -f x11grab -framerate 30 -video_size 640x640 -i :0.0+360,100 -c:v libx264 -pix_fmt yuv420p -qp 0 -preset ultrafast VideoLast.mp4
+  458  ffmpeg3 -y  -f alsa -ac 2 -i hw:1,0 -strict -2 -f x11grab -framerate 30 -video_size 640x640 -i :0.0+360,100 -c:v libx264 -pix_fmt yuv420p -qp 0 -preset ultrafast VideoLast.mp4
+  459  ffmpeg3 -y -i hw:1,0 -strict -2 -f x11grab -framerate 30 -video_size 640x640 -i :0.0+360,100 -c:v libx264 -pix_fmt yuv420p -qp 0 -preset ultrafast VideoLast.mp4
+  460  ffmpeg -y -i hw:1,0 -strict -2 -f x11grab -framerate 30 -video_size 640x640 -i :0.0+360,100 -c:v libx264 -pix_fmt yuv420p -qp 0 -preset ultrafast VideoLast.mp4
+  461  ffmpeg -y -ac 2 -i hw:1,0 -strict -2 -f x11grab -framerate 30 -video_size 640x640 -i :0.0+360,100 -c:v libx264 -pix_fmt yuv420p -qp 0 -preset ultrafast VideoLast.mp4
+  462  conda deactivate
+  463  ffmpeg -y  -f alsa -ac 2 -i hw:1,0 -strict -2 -f x11grab -framerate 30 -video_size 640x640 -i :0.0+360,100 -c:v libx264 -pix_fmt yuv420p -qp 0 -preset ultrafast VideoLast.mp4
+  464  ffmpeg -y  -f alsa -ac 2 -i hw:0,0 -strict -2 -f x11grab -framerate 30 -video_size 640x640 -i :0.0+360,100 -c:v libx264 -pix_fmt yuv420p -qp 0 -preset ultrafast VideoLast.mp4
+  465  FFMPEG -r .
+  466  which npm
+  467  sudo npm i -g shelljs
+  468  ffmpeg3
+  469  ffmpeg3 -thread_queue_size 768 -f alsa -i pulse -f x11grab -r 17 -s 1360x760 -i :0.0 -preset ultrafast -acodec pcm_s16le 0003.mkv 
+  470  ffmpeg -thread_queue_size 768 -f alsa -i pulse -f x11grab -r 17 -s 1360x760 -i :0.0 -preset ultrafast -acodec pcm_s16le 0003.mkv 
+  471  ffmpeg1 -thread_queue_size 768 -f alsa -i pulse -f x11grab -r 17 -s 1360x760 -i :0.0 -preset ultrafast -acodec pcm_s16le 0003.mkv 
+  472  ffmpeg2 -thread_queue_size 768 -f alsa -i pulse -f x11grab -r 17 -s 1360x760 -i :0.0 -preset ultrafast -acodec pcm_s16le 0003.mkv 
+  473  ffmpeg4 -thread_queue_size 768 -f alsa -i pulse -f x11grab -r 17 -s 1360x760 -i :0.0 -preset ultrafast -acodec pcm_s16le 0003.mkv 
+  474  ffmpeg2 -thread_queue_size 768 -f alsa -i pulse -f x11grab -r 17 -s 1360x760 -i :0.0 -preset ultrafast -acodec pcm_s16le 0003.mkv 
+  475  ffmpeg2 -thread_queue_size 768 -f pulse -i pulse -f x11grab -r 17 -s 1360x760 -i :0.0 -preset ultrafast -acodec pcm_s16le 0003.mkv 
+  476  aplay -l
+  477  cat /proc/asound/devices
+  478  aplay -l >>sound.info
+  479  echo "---------------------\n" >>sound.info
+  480  echo 'cat /proc/asound/devices' >> >>sound.info
+  481  echo 'cat /proc/asound/devices >>' >>sound.info
+  482  echo cat /proc/asound/devices >>sound.info
+  483  sub sound.info
+  484  cat /proc/asound/devices >>sound.info
+  485  echo "---------------------" >>sound.info
+  486  echo 'cat /proc/asound/cards' >>sound.info
+  487  echo "Results:" >>sound.info
+  488  cat /proc/asound/cards >>sound.info
+  489  cat /proc/asound/cards
+  490  sudo apt-get install libasound2-dev
+  491  sudo apt autoremove
+  492  sudo apt-get update -qq && sudo apt-get -y install   autoconf   automake   build-essential   cmake   git-core   libass-dev   libfreetype6-dev   libsdl2-dev   libtool   libva-dev   libvdpau-dev   libvorbis-dev   libxcb1-dev   libxcb-shm0-dev   libxcb-xfixes0-dev   pkg-config   texinfo   wget   zlib1g-dev
+  493  "
+  494  sudo apt-get update -qq && sudo apt-get -y install   autoconf   automake   build-essential   cmake   git-core   libass-dev   libfreetype6-dev   libsdl2-dev   libtool   libva-dev   libvdpau-dev   libvorbis-dev   libxcb1-dev   libxcb-shm0-dev   libxcb-xfixes0-dev   pkg-config   texinfo   wget   zlib1g-dev
+  495  locate repository.list
+  496  locate sources.list
+  497  locate /sources.list
+  498  cd ~/Desktop
+  499  ffmpeg -thread_queue_size 768 -f alsa -i pulse -f x11grab -r 17 -s 1360x760 -i :0.0 -preset ultrafast -acodec pcm_s16le 0003.mkv 
+  500  ffmpeg
+  501  WINEPREFIX=~/.wine32 WINEARCH=win32 setup.exe
+  502  ls
+  503  chmod +x setup.exe
+  504  ls
+  505  WINEPREFIX=~/.wine32 WINEARCH=win32 setup.exe
+  506  WINEPREFIX=~/.wine32 WINEARCH=win32 ./setup.exe
+  507  thunar
+  508  ls /home/jack/.local/share/wineprefixes/
+  509  ffmpeg
+  510  pip install pyttsx3
+  511  sudo pip install pyttsx3
+  512  apt search libespeak
+  513  sudo apt install libespeak-dev libespeak1
+  514  nano test.vbs 
+  515  chmod _x test.vbs 
+  516  chmod +x test.vbs 
+  517  ./test.vbs 
+  518  cd ~/
+  519  mkdir prefix32
+  520  WINEPREFIX="$HOME/prefix32" WINEARCH=win32 wine wineboot
+  521  git clone https://github.com/audacity/audacity.git
+  522  git clone https://github.com/audacity/wxWidgets.git
+  523  chmod 777 -r data
+  524  chmod -r 777 data
+  525  chmod 777 data
+  526  chmod 777 -R data
+  527  sudo chmod 777 -R data
+  528  cd data
+  529  thunar
+  530  ls
+  531  audacity
+  532  blender
+  533  which ffmpeg
+  534  sudo cp /usr/bin/ffmpeg /usr/bin/jffmpeg
+  535  jffmpeg
+  536  sudo snap install blender --classic
+  537  dpkg -l "*gtk*" | grep ii
+  538  dpkg -l "*audacity*" | grep ii
+  539  sudo apt-get install audacity
+  540  audacity
+  541  git clone https://github.com/Uberi/speech_recognition.git
+  542  cd speech_recognition
+  543  ls
+  544  python setup.py install
+  545  ls
+  546  cd tests
+  547  ls
+  548  python test_audio.py
+  549  python test_recongnition.py
+  550  python test_recognition.py
+  551  pip3 install pocketsphinx
+  552  sudo apt-get install portaudio19-dev python-all-dev python3-all-dev && sudo pip install pyaudio
+  553  sudo apt-get install -y python python-dev python-pip build-essential swig git libpulse-dev
+  554  sudo pip install pocketsphinx
+  555  python setup.py install
+  556  python3 -H setup.py install
+  557  python3 setup.py install
+  558  python
+  559  sudo updatedb
+  560  apt install libav-tools
+  561  sudo apt install libav-tools
+  562  gpointing-device-settings
+  563  yadmenu
+  564  sub yadmenu2
+  565  docker ps
+  566  sudo updatedb
+  567  xset led on
+  568  docker images
+  569  ls
+  570  cd www
+  571  ls
+  572  cd .audacity
+  573  cd .audacity_files
+  574  ls .*
+  575  cd .audacity_data
+  576  cd .audacity-data
+  577  ls
+  578  cd Plug-Ins
+  579  ls
+  580  mv ~/Desktop/*.ny .
+  581  ls
+  582  locate fftw
+  583  locate /fftw/
+  584  cd ..
+  585  ls
+  586  dpkg -l
+  587  dpkg -l | grep "fftw"
+  588  fftw
+  589  fftw3
+  590  FFTW
+  591  FFTW3
+  592  ifort
+  593  fftw
+  594  ls /bin/
+  595  fgconsole --help
+  596  whiptail --help
+  597  whiptail [ --title title ] [ --backtitle backtitle ] [ --clear ] [ --default-item string ]
+  598  nano whip
+  599  chmod +x whip
+  600  ./whip
+  601  rm whip
+  602  ls /usr/local/bin
+  603  ls /usr/local/bin/animate
+  604  ls /usr/local/bin
+  605  jsrun --help
+  606  sudo npm install -g jsrun
+  607  jsrun --help
+  608  ls /usr/local/bin
+  609  ls /bin
+  610  ls bin
+  611  ls /usr/local/bin
+  612  docker-machine --help
+  613  ls /usr/local/bin
+  614  mdb_stat
+  615  imageio_download_bin --help
+  616  ls /usr/local/bin
+  617  GeoBase --help
+  618  GeoBase -a
+  619  sudo pip install speechrecognition
+  620  sudo -H pip install speechrecognition
+  621  conda deactivate
+  622  sudo -H pip install speechrecognition
+  623  cd ~/Desktop/BLENDER
+  624  ls
+  625  BLENDER -i "
+  626  response from starting blender:
+  627  Read prefs: /home/jack/.config/blender/2.79/config/userpref.blend
+  628  found bundled python: /snap/blender/20/2.79/python
+  629  "
+  630  BLENDER -r .
+  631  BLENDER -i "
+  632  install:
+  633  sudo snap install blender --classic
+  634  blender 2.79b from Gustavo Niemeyer (niemeyer) installed
+  635  install blender 
+  636  "
+  637  BLENDER -i "
+  638  start blender > click file > new > Reload Start-Up File
+  639  or --- Ctrl n and enter
+  640  "
+  641  BLENDER -i "
+  642  create text: 
+  643  from top of menu, where you see Blender Render 
+  644  choose Cycles Render 
+  645  Right CLick on cube and press delete.
+  646  from the left side menu > Add Primitive > Mesh > Plane
+  647  press s to scale
+  648  then use mouse OR enter a number to scale it automatically
+  649  press r to rotate and x for axis of rotation
+  650  middle-mouse-button zoom and rotate global
+  651  "
+  652  BLENDER -I "
+  653  pan - shift Middle Mouse
+  654  zoom = cntrl Middle Mouse
+  655  BLENDER -I "
+  656  pan - shift Middle Mouse
+  657  zoom - cntrl Middle Mouse
+  658  "
+  659  Blender -I "
+  660  center cursor -
+  661  shift s
+  662  chose Cursor to Center 
+  663  shift a brings up ( Add Meshes )
+  664  "
+  665  WINEPREFIX=~/.wine32ie7 WINEARCH=win32 winetricks ie7
+  666  locate *.vbs
+  667  detox
+  668  sudo apt install detox
+  669  detox --help
+  670  docker ps
+  671  wine IE8-WindowsXP-x86-ENU.exe
+  672  sudo updatedb
+  673  sudo apt-get install python-pyaudio python3-pyaudio
+  674  sudo ldconfig
+  675  git clone --recursive https://github.com/cmusphinx/pocketsphinx-python/
+  676  git fetch --unshallow --recursive https://github.com/cmusphinx/pocketsphinx-python/
+  677  git fetch https://github.com/cmusphinx/pocketsphinx-python/
+  678  git clone --recursive https://github.com/cmusphinx/pocketsphinx-python/
+  679  rm -R pocketspinx-python
+  680  rm -R pocketsphinx-python
+  681  sudo rm -R pocketsphinx-python
+  682  git clone --recursive https://github.com/cmusphinx/pocketsphinx-python/
+  683  cd pocketsphinx-python
+  684  ls
+  685  thunar
+  686  ls /usr/lib/x86_64-linux-gnu/dri/r600_drv_video.so
+  687  cd /home/TEXT
+  688  cd /home/TEMP
+  689  sub NED
+  690  chmod +x BLENDER
+  691  ls
+  692  sudo ln -s /home/TEMP/BLENDER /usr/local/bin/BLENDER
+  693  BLENDER -CREATE .
+  694  sub BLENDER
+  695  ls Databases
+  696  cd ..
+  697  cd ~/Desktop
+  698  mkdir BLENDER
+  699  cd BLENDER
+  700  ls
+  701  blender
+  702  ned -s port
+  703  jupyter notebook list
+  704  jupyter serverextension disable --py jupyter_notebook_gist
+  705  cd ../data
+  706  sub test.ipynb
+  707  cd ..
+  708  ./clipgrab
+  709  cd ..
+  710  detox -r vids
+  711  ned -i "
+  712  clear whitespaces whitespaces 
+  713  detox -r vids 
+  714  remove whitespace from filenames
+  715  "
+  716  cd ..
+  717  docker images
+  718  cd textract
+  719  ls
+  720  docker run -d -it -p 8888:8888 -v $(pwd)/work/:/home/jovyan/work/ jacknorthrup/textract:v3 bash
+  721  cd..
+  722  chmod 777 data
+  723  chown jack:jack data
+  724  chmod 777 data
+  725  ls -a data
+  726  ls -al data
+  727  sudo chown jack:jack data
+  728  chmod 777 data
+  729  ls -al data
+  730  sudo chown -R jack:jack data
+  731  chmod -R 777 data
+  732  ls -al data
+  733  thunar
+  734  ffmpeg -i LizaRowe.mp4 -ss 00:04:30 -c copy LizaRow-short.mp4
+  735  ffmpeg -i Cutegirl.mp4 -ss 00:10:00 -c copy Cutegirl-short.mp4
+  736  which ffmpeg
+  737  sudo cp /usr/bin/ffmpeg /usr/bin/ffmpegBest
+  738  ffmpeg
+  739  ned -s whitespace
+  740  ned -s remove whitespace
+  741  ./Startserver.sh
+  742  nano Startserver.sh
+  743  cd SERVER
+  744  ls
+  745  ./start
+  746  ./startserver.sh
+  747  ls
+  748  nmp start
+  749  b
+  750  ./clipgrab
+  751  /usr/lib/x86_64-linnu
+  752  ls /usr/lib/x86_64-linux
+  753  ls /usr/lib/x86_64-linux-gnu
+  754  ffmpeg
+  755  which ffmpeg
+  756  ls -s /usr/bin/ffmpeg /media/jack/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/anaconda2/bin/ffmpeg
+  757  ffmpeg -thread_queue_size 768 -f alsa -i pulse -f x11grab -r 17 -s 1360x760 -i :0.0 -preset ultrafast -acodec pcm_s16le 0003.mkv 
+  758  ls
+  759  ffplay 0003.mkv
+  760  thunar
+  761  ffmpeg -thread_queue_size 768 -f alsa -i pulse -f x11grab -r 17 -s 1360x760 -i :0.0 -preset ultrafast -acodec pcm_s16le 0003.mkv 
+  762  thunar
+  763  python
+  764  pip3 install pyttsx3
+  765  cd ~/Desktop/data
+  766  jupyter notebook
+  767  docker ps
+  768  fuser -k 8888/ttcp
+  769  port
+  770  ned -s port
+  771  fuser -k 8888/tcp
+  772  cd ~/Desktop/BLENDER
+  773  ls
+  774  docker images | grep "textract"
+  775  docker run -d -it -p 8888:8888 -v $(pwd)/:/home/jovyan/work jacknorthrup/textract:v3 bash tail -f /dev/null
+  776  docker ps
+  777  docker run -d -it -p 8888:8888 -v $(pwd)/:/home/jovyan/work jacknorthrup/textract:v3 
+  778  docker ps
+  779  docker exec -it 4b4e5f700c6c bash
+  780  pw
+  781  docker login
+  782  docker commit jacknorthrup/textract:v3 
+  783  docker push jacknorthrup/textract:v3 
+  784  cd SERVER
+  785  npm start
+  786  docker inspect 4b4e5f700c6c
+  787  jupyter nbextension enable codefolding/main
+  788  jupyter nbextensions_configurator enable --user
+  789  docker ps
+  790  blender
+  791  sub ~/.bashrc
+  792  source ~/.bashrc
+  793  INFO
+  794  source ~/.bashrc
+  795  INFO
+  796  source ~/.bashrc
+  797  INFO
+  798  source ~/.bashrc
+  799  INFO
+  800  source ~/.bashrc
+  801  INFO
+  802  source ~/.bashrc
+  803  INFO
+  804  source ~/.bashrc
+  805  INFO
+  806  npm start
+  807  ned -s port
+  808  user -k 8080/tcp
+  809  fuser -k 8080/tcp
+  810  kill -9 23779
+  811  source ~/.bashrc
+  812  INFO
+  813  source ~/.bashrc
+  814  INFO
+  815  ls
+  816  python good-bak-CONVERSATIONedit.py
+  817  sudo pip3 install chatterbot
+  818  sudo -H pip3 install chatterbot
+  819  python good-bak-CONVERSATIONedit.py
+  820  sudo -H pip install chatterbot
+  821  yadmenu
+  822  docker ps
+  823  SRall
+  824  docker ps
+  825  docker images
+  826  docker rmi nikhilk/ijs:latest
+  827  docker ps
+  828  yadmenu
+  829  docker ps
+  830  pw
+  831  docker login
+  832  docker push jacknorthrup/jupyter-learn-javascript:latest
+  833  docker ps
+  834  docker commit f6ad27fda7cf jacknorthrup/jupyter-js:latest
+  835  docker push jacknorthrup/jupyter-js:latest
+  836  SRall
+  837  sub yadmenu
+  838  yadmenu
+  839  cd New/ Folder
+  840  cd New Folder
+  841  cd New/ Folder
+  842  ls
+  843  mkdir newfolder
+  844  cd newfolder
+  845  ls mtp://[usb:001,008]/SD card/DCIM/103_FUJI/
+  846  sudo ls mtp://[usb:001,008]/SD card/DCIM/103_FUJI/
+  847  ls mtp://[usb:001,008]/SD\ card/DCIM/103_FUJI/
+  848  docker ps
+  849  docker commit a7d4e1cbf2da jacknorthrup/visual-studio:latest
+  850  docker push jacknorthrup/visual-studio:latest
+  851  SRall
+  852  sub yadmain
+  853  SRall
+  854  docker rmi jurjean/visual-studio-code:latest
+  855  docker save jacknorthrup-visual-studio-latest.tar jacknorthrup/visual-studio:latest
+  856  docker save -o jacknorthrup-visual-studio-latest.tar jacknorthrup/visual-studio:latest
+  857  ls /home/Docker-tars
+  858  ls /home/Docker-Tars
+  859  mv jacknorthrup-visual-studio-latest.tar /mnt/40ec525c-34bc-44ef-99c8-53f5524ad88b/Docker-Tars
+  860  docker images
+  861  jacknorthrup/patternlab-2:node-gulp
+  862  ls
+  863  docker run -d -p 8080:8080 -v $(pwd)/source:/opt/pattern-lab/source/ jacknorthrup/patternlab-2:node-gulp
+  864  docker ps
+  865  locate /source/
+  866  cd edition-node-gulp
+  867  ls
+  868  SRall
+  869  docker run -d -p 8080:8080 -v $(pwd)/source:/opt/pattern-lab/source/ jacknorthrup/patternlab-2:node-gulp
+  870  ls
+  871  cd source
+  872  ls
+  873  code .
+  874  blender
+  875  docker ps
+  876  ls
+  877  docker ps
+  878  cd ..
+  879  ls
+  880  sub yadmain
+  881  docker ps
+  882  docker inspect 90a024f1af45 |grep "IPAddress"
+  883  ls
+  884  nano restart-jack.sh
+  885  ./CONVERSATION_edit
+  886  sub CONVERSATION_edit
+  887  ls
+  888  chmod +x quesan_edit
+  889  ./quesan_edit
+  890  cd Desktop/source
+  891  ls
+  892  cd patterns
+  893  ls
+  894  cd ..
+  895  ls
+  896  cd public
+  897  ls
+  898  cd patterns
+  899  ls
+  900  cd ..
+  901  ls
+  902  cd styleguide
+  903  ls
+  904  cd html
+  905  ls
+  906  pw
+  907  pwa
+  908  sub /home/TEMP/SNIPPETS
+  909  which SNIPPETS
+  910  locate SNIPPETS.py
+  911  locate SNIPPETS
+  912  locate snippets
+  913  locate snippets.py
+  914  sub /home/jack/Desktop/desktop-files/snippets.py
+  915  sub /home/TEMP/NED
+  916  chmod +x /home/TEMP/quesan
+  917  ln -s /home/TEMP/quesan /usr/local/bin/quesan
+  918  sudo ln -s /home/TEMP/quesan /usr/local/bin/quesan
+  919  quesab -CREATE
+  920  quesan -CREATE
+  921  quesan -CREATE .
+  922  locate /conversation.py
+  923  cd /mnt/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/Desktop/JupyterNotebook-ChatnEditor/
+  924  ls
+  925  jupyter notebook
+  926  xset led on
+  927  locate ssh*.pdf
+  928  locate *.pdf >>all.pdf
+  929  sub all.pdf
+  930  cd /mnt/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/asymptote
+  931  ls
+  932  thunar
+  933  asymptote
+  934  audacity
+  935  ned -i "
+  936  pip  install gTTS
+  937  Program for conversion will be as shown below.
+  938  from gtts import gTTS
+  939  tts = gTTS(text='Hello crazy programmer', lang='en')
+  940  tts.save('audio.mp3')
+  941  Unlike other APIs it will generate an audio and will save 
+  942  into the same directory where your program stored.
+  943  To play this audio we’ll need another tool to play audio on command line.
+  944  If you’re using Linux (eg. Ubuntu) then mpg321 will be best command line player.
+  945  To install it open terminal and type this command-
+  946  sudo apt-get install mpg321
+  947  mpg321 audio.mp3 -quiet
+  948  import os     #will be on the top
+  949  os.system('mpg321 audio.mp3 -quiet')
+  950  text to voice text2voice "
+  951  pw 
+  952  pwa
+  953  cd Desktop
+  954  mkdir text-to-voice
+  955  cd text-to-voice
+  956  wget https://raw.githubusercontent.com/Alexir/CMUdict/master/cmudict-0.7b
+  957  git clone https://github.com/alexram1313/text-to-speech-sample.git
+  958  . ../clipgrab
+  959  ../ ./clipgrab
+  960  .././clipgrab
+  961  git clone https://github.com/SforAiDl/Neural-Voice-Cloning-With-Few-Samples.git
+  962  netstat
+  963  java DemoRunner.java
+  964  javac DemoRunner.java
+  965  javac DialogDemo.java
+  966  chmod +x ClipGrab3
+  967  ./ClipGrab3
+  968  cd /home/TEMP
+  969  ls
+  970  links
+  971  LINKS
+  972  LINKS -r .
+  973  LINKS -i "
+  974  https://www.xnxx.com/video-9z0pj8f/victoria_gets_fucked
+  975  "
+  976  LINKS -i "
+  977  https://www.xnxx.com/video-2h4vy67/yukiko_gets_a_moisturizing_face_full_of_cum LINKS
+  978  "
+  979  LINKS -i "
+  980  https://www.xnxx.com/video-gln6317/naughty_and_gorgeous_latina_chick_with_curly_hair_gets_her_holes_tested
+  981  "
+  982  LINKS -i "
+  983  https://www.xnxx.com/video-4cm0m2f/full_casting_amazing_czech_teen_model_convinced_for_fuck
+  984  "
+  985  ined
+  986  LINKS -i "
+  987  https://www.xnxx.com/video-xqjde8/gorgeous_latina_rides_it_like_a_champ_-_pornhub.com
+  988  "
+  989  cd ~/Desktop
+  990  ls
+  991  yadmenu
+  992  sub yadmenu2
+  993  yadmenu2
+  994  docker ps
+  995  sub yadmenu2
+  996  ls itorch*.ipynb
+  997  ls itorch*
+  998  ls itorch
+  999  ls
+ 1000  cd notebooks
+ 1001  cd notebook
+ 1002  ls *.ipynb
+ 1003  ls temp
+ 1004  ls ../char/char-rnn
+ 1005  cp /home/jack/Desktop/JupyterNotebook-CharRnn/BASENewtrump3a.lua ../char/char-rnn
+ 1006  ls ../char/char-rnn/*.py
+ 1007  cp -a /home/jack/Desktop/JupyterNotebook-CharRnn/Alice ../char/char-rnn
+ 1008  ls *.py
+ 1009  cp -a /home/jack/Desktop/JupyterNotebook-CharRnn/*.py ../char/char-rnn
+ 1010  ls
+ 1011  ls BASE*
+ 1012  cp -a /home/jack/Desktop/JupyterNotebook-CharRnn/BASEalice3.lua ../char/char-rnn
+ 1013  ls samp*.*
+ 1014  cp -a /home/jack/Desktop/JupyterNotebook-CharRnn/sample0.lua ../char/char-rnn
+ 1015  ls
+ 1016  cd ../char
+ 1017  ls
+ 1018  cd char-rnn
+ 1019  ls
+ 1020  thunar
+ 1021  ls
+ 1022  th BASEalice3.lua
+ 1023  ls
+ 1024  cd ~/
+ 1025  git clone https://git.skewed.de/count0/graph-tool.git
+ 1026  cd graph-tool
+ 1027  ls
+ 1028  ./autogen.sh
+ 1029  ls
+ 1030  ./configure
+ 1031  apt search expat
+ 1032  sudo apt install -y expat libexpat1 libexpat1-dev lua-expat lua-expat-dev node-node-expat xlsx2csv
+ 1033  sudo ldconfig
+ 1034  ./configure
+ 1035  apt search libexpat
+ 1036  sudo apt install libexpat1 libexpat1-dev
+ 1037  sudo ldconfig
+ 1038  ./configure --clean
+ 1039  ./configure 
+ 1040  sudo apt install libexpat1-udeb
+ 1041  sudo apt-get update
+ 1042  locate sources.list
+ 1043  nano /home/jack/Desktop/local-mirror/apt/sources.list.d/opera-stable.list
+ 1044  nano /home/jack/Desktop/local-mirror/apt/sources.list.d/google-chrome.list
+ 1045  sudo apt-get upgrade
+ 1046  ./clipgrab
+ 1047  cd Desktop
+ 1048  ./clipgrab
+ 1049  cd MISC
+ 1050  thunar
+ 1051  cd ..
+ 1052  ./clipgrab
+ 1053  mkdir JupyterNotebook-itorch
+ 1054  cd JupyterNotebook-itorch
+ 1055  git init
+ 1056  ls
+ 1057  nano startdocker
+ 1058  chmod +x startdocker
+ 1059  SRall
+ 1060  ./startdocker
+ 1061  docker images
+ 1062  cd ..
+ 1063  cd JupyterNotebook-char
+ 1064  cd JupyterNotebook-char-rnn
+ 1065  ls JupyterNotebook*
+ 1066  cd JupyterNotebook-Char-Rnn
+ 1067  cd JupyterNotebook-CharRnn
+ 1068  ls
+ 1069  docker run -d -it -p 8888:8888 -v $(pwd)/:notebooks jacknorthrup/char-db-xfc:latest
+ 1070  docker run -d -it -p 8888:8888 -v $(pwd)/:/notebooks jacknorthrup/char-db-xfc:latest
+ 1071  docker ps
+ 1072  docker run -d -it -p 5900:5900 -v $(pwd)/:/notebooks jacknorthrup/char-db-xfc:latestcd
+ 1073  docker ps
+ 1074  docker inspect e2741aefdfc6 |grep "IPAddress"
+ 1075  vnc
+ 1076  docker ps
+ 1077  docker stop 167637a4c2b7
+ 1078  docker exec -it e2741aefdfc6 bash
+ 1079  SRall
+ 1080  cd ../char
+ 1081  ls
+ 1082  nano start
+ 1083  chmod +x start
+ 1084  locate BASEalice2.db
+ 1085  ls /home/jack/Desktop/JupyterNotebook-CharRnn/BASEalice2.db
+ 1086  cd ..
+ 1087  ls
+ 1088  cd CharRnn
+ 1089  ls
+ 1090  th sample0.lua Alice/BASEdropout5_BASEalice4_GRU_current-learning-rate_0.001524685429_rnn-size_96_train_loss_1.35825137_epoch_76.51_evaluationloss_1.3884.t7
+ 1091  th sample0.lua Alice/BASEdropout5_BASEalice4_GRU_current-learning-rate_0.001524685429_rnn-size_96_train_loss_1.35825137_epoch_76.51_evaluationloss_1.3884.t7 -temperature .5
+ 1092  th sample0.lua Alice/BASEdropout5_BASEalice4_GRU_current-learning-rate_0.001524685429_rnn-size_96_train_loss_1.35825137_epoch_76.51_evaluationloss_1.3884.t7 -temperature .2
+ 1093  ls
+ 1094  python plot2aa.py
+ 1095  ls
+ 1096  nano PLOT.py
+ 1097  python PLOT.py
+ 1098  nano PLOT.py
+ 1099  python PLOT.py
+ 1100  nano PLOT.py
+ 1101  python PLOT.py
+ 1102  los
+ 1103  lsls
+ 1104  ls
+ 1105  ls *.lua
+ 1106  nano plot.lua
+ 1107  th plot.lua
+ 1108  luarocks install graph
+ 1109  sudo -H luarocks install graph
+ 1110  sudo -H luarocks install https://raw.githubusercontent.com/torch/graph/master/rocks/graph-scm-1.rockspec
+ 1111  locate /graph/
+ 1112  sudo -H luarocks install /home/jack/distro/extra/graph/rocks/graph-scm-1.rockspec
+ 1113  sudo -H luarocks install flot
+ 1114  sudo -H luarocks install --server=http://luarocks.org/dev graph-toolkit
+ 1115  locate agg_basics.h
+ 1116  sudo -H luarocks install --server=http://luarocks.org/dev graph-toolkit AGG_DIR=/mnt/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/antigrain/include
+ 1117  sudo -H luarocks install --server=http://luarocks.org/dev graph-toolkit AGG_DIR=/mnt/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/antigrain/include/agg2
+ 1118  sudo -H luarocks install --server=http://luarocks.org/dev graph-toolkit AGG_DIR=/mnt/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/antigrain
+ 1119  apt search libagg
+ 1120  sudo apt install libagg-dev
+ 1121  sudo ldconfig
+ 1122  sudo -H luarocks install --server=http://luarocks.org/dev graph-toolkit
+ 1123  cd ...
+ 1124  cd ..
+ 1125  ls
+ 1126  cd JupyterNotebook-CharRnn
+ 1127  ls
+ 1128  thunar
+ 1129  ls
+ 1130  git add .
+ 1131  git login
+ 1132  git logon
+ 1133  git commit -m "First Push"
+ 1134  git push
+ 1135  git remote add jupyterjones JupyterNotebook-itorch
+ 1136  git push jupyterjones
+ 1137  git push --set-upstream jupyterjones master
+ 1138  docker push jacknorthrup/py2-torch:latest
+ 1139  git push --set-upstream jupyterjones master
+ 1140  git remote add origin https://github.com/JupyterJones/JupyterNotebook-itorch.git
+ 1141  git push -u origin master
+ 1142  locate /lsqlite3/
+ 1143  ls
+ 1144  cd temp
+ 1145  ls
+ 1146  sudo /usr/local/lib/luarocks/rocks .
+ 1147  sudo cp -a /usr/local/lib/luarocks/rocks .
+ 1148  ls
+ 1149  ls rocks
+ 1150  ls
+ 1151  ls rocks
+ 1152  cp -a /home/jack/LuaDist/lua-modules/lib/luarocks/rocks .
+ 1153  sudo cp -a /home/jack/LuaDist/lua-modules/lib/luarocks/rocks .
+ 1154  ls rocks
+ 1155  SRall
+ 1156  cd ../../
+ 1157  ls
+ 1158  thunar
+ 1159  mv Itorch-notebook.ipynb temp
+ 1160  sudo mv Itorch-notebook.ipynb temp
+ 1161  cd ~/Downloads
+ 1162  ls
+ 1163  sudo dpkg -i lua-graph-toolkit_1.0-1_amd64.deb
+ 1164  sudo apt-get -f install
+ 1165  jupyter notebook --list
+ 1166  jupyter notebook list
+ 1167  git clone https://github.com/shichuan/javascript-patterns.git
+ 1168  cd javascript-patterns
+ 1169  thunar
+ 1170  docker images
+ 1171  docker rmi stonehippo/pattern-lab-2:node-gulp
+ 1172  sudo apt get update
+ 1173  sudo apt-get update
+ 1174  apt-get update -y --allow-releaseinfo-change
+ 1175  sudo apt-get update -y --allow-releaseinfo-change
+ 1176  sudo apt-get upgrade
+ 1177  ls /var/lib/dpkg/lock-frontend
+ 1178  sudo rm /var/lib/dpkg/lock-frontend
+ 1179  sudo apt-get upgrade
+ 1180  sudo rm /var/lib/dpkg/lock
+ 1181  sudo apt-get upgrade
+ 1182  sudo dpkg --configure -a
+ 1183  sudo apt-get autoremove 
+ 1184  sudo rm /var/cache/apt/archives/lock
+ 1185  sudo apt-get autoremove 
+ 1186  torch
+ 1187  make
+ 1188  locate bin/torch
+ 1189  sub ~/.bashrc
+ 1190  ls /home/jack/torch/install/bin/torch-activate
+ 1191  torch
+ 1192  . /home/jack/torch/install/bin/torch-activate
+ 1193  torch
+ 1194  source ~/.bashrc
+ 1195  . /home/jack/torch/install/bin/torch-activate
+ 1196  torch
+ 1197  nano /home/jack/torch/install/bin/torch-activate
+ 1198  ffmpeg -i HarleyDean.mp4 -ss 00:03:00 -c copy HarleyDean-short.mp4
+ 1199  detox .
+ 1200  cd ..
+ 1201  detox vids
+ 1202  detox -h
+ 1203  python setup.py install
+ 1204  mv *.ipynb STUFF
+ 1205  locate Miniconda3-latest-Linux-x86_64.sh
+ 1206  cp /home/jack/Miniconda3-latest-Linux-x86_64.sh ~/Desktop/Ubuntu16.04/notebooks/style_transfer-master/docker
+ 1207  locate l_mkl_2017.0.098.tgz
+ 1208  ls
+ 1209  cd ..
+ 1210  ls
+ 1211  jupyter notebook
+ 1212  docker images
+ 1213  docker images | grep "3d"
+ 1214  docker images | grep "3D"
+ 1215  locateAll *.csv /home/csvAll.list
+ 1216  locateAll *.csv >>/home/csvAll.list
+ 1217  python
+ 1218  pip3 install --upgrade matplotlib
+ 1219  sudo updatedb
+ 1220  conda install basemap
+ 1221  sudo sub JAVA
+ 1222  sudo cp JAVA K3D-Data.py
+ 1223  docker build -t jacknorthrup/jupyter-k3d .
+ 1224  pw
+ 1225  docker login
+ 1226  docker push jacknorthrup/jupyter-k3d:latest
+ 1227  docker run -d -p 8888:8888 -u root -v $(pwd)/K3D-jupyter:/K3D-jupyter jacknorthrup/jupyter-k3d
+ 1228  docker ps
+ 1229  docker stop 544ea4727764
+ 1230  cd ..
+ 1231  cd jupyter-k3d
+ 1232  ls
+ 1233  docker run -d -p 8888:8888 -u root -v $(pwd)/K3D-jupyter:/home/jovyan/K3D-jupyter jacknorthrup/jupyter-k3d
+ 1234  docker ps
+ 1235  docker stop 5626d7924fff
+ 1236  docker run -d -p 8888:8888 -u root -v $(pwd)/K3D-jupyter:/home/jovyan/work jacknorthrup/jupyter-k3d
+ 1237  docker run -d -u root -v $(pwd)/K3D-jupyter/work:/home/jovyan/K3D-jupyter jacknorthrup/jupyter-k3d
+ 1238  docker ps
+ 1239  ls
+ 1240  cd K3D-jupyter
+ 1241  ls
+ 1242  docker cp -a 2163aa0683f9:/home/jovyan/K3D-jupyter/* work
+ 1243  docker cp -a jacknorthrup/jupyter-k3d /home/jovyan/K3D-jupyter/*:/work
+ 1244  docker cp -a 2163aa0683f9 /home/jovyan/K3D-jupyter/*:work
+ 1245  docker cp -a /home/jovyan/K3D-jupyter/*:work jacknorthrup/jupyter-k3d
+ 1246  docker cp -a /home/jovyan/K3D-jupyter/*:work 2163aa0683f9
+ 1247  docker cp -a /home/jovyan/K3D-jupyter/*:work -i 2163aa0683f9
+ 1248  docker cp 2163aa0683f9 /home/jovyan/K3D-jupyter/*.*:work
+ 1249  docker cp 2163aa0683f9:/home/jovyan/K3D-jupyter/*.* work
+ 1250  docker cp 2163aa0683f9:/home/jovyan/K3D-jupyter work
+ 1251  sudo docker cp 2163aa0683f9:/home/jovyan/K3D-jupyter work
+ 1252  echo 'sudo docker cp 2163aa0683f9:/home/jovyan/K3D-jupyter work' >>cp-docker2work.sh
+ 1253  sudo echo 'sudo docker cp 2163aa0683f9:/home/jovyan/K3D-jupyter work' >>cp-docker2work.sh
+ 1254  sudo echo 'sudo docker cp 2163aa0683f9:/home/jovyan/K3D-jupyter work' >>cp
+ 1255  sudo echo "sudo docker cp 2163aa0683f9:/home/jovyan/K3D-jupyter work" >>cp
+ 1256  sudo nano cp-docker2work.sh
+ 1257  chmod +x cp-docker2work.sh
+ 1258  sudo chmod +x cp-docker2work.sh
+ 1259  sudo nano cp-docker2work.sh
+ 1260  ./cp-docker2work.sh
+ 1261  sudo nano cp-docker2work.sh
+ 1262  ./cp-docker2work.sh
+ 1263  cd ..
+ 1264  rm K3D-jupyter
+ 1265  sudo rm -R K3D-jupyter
+ 1266  ./cp-docker2work.sh
+ 1267  ls
+ 1268  sudo docker cp 2163aa0683f9:/home/jovyan/K3D-jupyter .
+ 1269  ls
+ 1270  sudo nano cp_K3D-jupyter_here
+ 1271  ls
+ 1272  docker build -t jacknorthrup/jupyter-k3d:v2 .
+ 1273  docker run -d -u root -v $(pwd)/K3D-jupyter/work:/home/jovyan/K3D-jupyter jacknorthrup/jupyter-k3d:v2
+ 1274  docker ps
+ 1275  docker stop 2163aa0683f9
+ 1276  docker stop 1842c1bff0a6
+ 1277  docker stop d238ded0b314
+ 1278  docker build -t jacknorthrup/jupyter-k3d:latest .
+ 1279  ls
+ 1280  dir
+ 1281  cd ..
+ 1282  cd jupyter-k3d
+ 1283  ls
+ 1284  docker build -t jacknorthrup/jupyter-k3d:latest .
+ 1285  docker push jacknorthrup/jupyter-k3d:latest
+ 1286  sub jupyter-k3d.html
+ 1287  docker images
+ 1288  script -h
+ 1289  script git.stuff
+ 1290  git init
+ 1291  git add .
+ 1292  git commit -m "First commit"
+ 1293  git remote add origin https://github.com/JupyterJones/jupyter-k3d.git
+ 1294  git push -u origin master
+ 1295  ls
+ 1296  rm Unconfirmed 136250.crdownload
+ 1297  rm Unconfirmed\ 136250.crdownload
+ 1298  script stop
+ 1299  ls
+ 1300  sub stop
+ 1301  sub git.stuff
+ 1302  git add .
+ 1303  git commit -m "pruning files"
+ 1304  git push
+ 1305  ls
+ 1306  cp -a /home/jack/storms .
+ 1307  ls
+ 1308  cd ..
+ 1309  cd jupyter-k3d
+ 1310  ls
+ 1311  cp -a /home/jack/storms .
+ 1312  ls
+ 1313  git add .
+ 1314  git commit -m "Added storm csv files"
+ 1315  git push
+ 1316  git add .
+ 1317  git commit -m "Create html file"
+ 1318  git push
+ 1319  git add .
+ 1320  git commit -m "Corrections to html file"
+ 1321  git push
+ 1322  touch test.txt
+ 1323  sudo touch test.txt
+ 1324  ls ~/Desktop/*.ipynb
+ 1325  ls ~/Desktop/
+ 1326  ls ~/Desktop/geobases
+ 1327  ls
+ 1328  cp -a /home/jack/storms .
+ 1329  sudo cp -a /home/jack/storms .
+ 1330  ls /home/TEMP/
+ 1331  cp  /home/TEMP/pw .
+ 1332  sudo cp /home/TEMP/pw .
+ 1333  sudo cp /home/TEMP/pwa .
+ 1334  ls
+ 1335  ls /home/TEMP/
+ 1336  sudo cp /home/TEMP/JAVA .
+ 1337  ls
+ 1338  cd work
+ 1339  ls
+ 1340  cd ..
+ 1341  ls
+ 1342  cd ..
+ 1343  ls
+ 1344  ls K3D-jupyter
+ 1345  ls
+ 1346  sudo nano cp_K3D-jupyter_here
+ 1347  sudo chmod +x cp_K3D-jupyter_here
+ 1348  ./cp_K3D-jupyter_here
+ 1349  ls
+ 1350  sub Dockerfile
+ 1351  sudo touch __init__.py
+ 1352  ls
+ 1353  mv K3D-Data.py K3D_Data.py
+ 1354  sudo mv K3D-Data.py K3D_Data.py
+ 1355  sudo sub K3D_Data.py
+ 1356  sudo rm -R *
+ 1357  ls
+ 1358  sudo rm -R .
+ 1359  sudo rm -R /.
+ 1360  sudo rm -R ./
+ 1361  cd ../../
+ 1362  cd ~/Desktop
+ 1363  sudo chown jack:jack jupyter-k3d
+ 1364  sudo chmod -r 777 jupyter-k3d
+ 1365  sudo chmod 777 -r jupyter-k3d
+ 1366  sudo chmod 777 jupyter-k3d
+ 1367  cd jupyter-k3d
+ 1368  sudo chmod 777 *
+ 1369  sudo chmod 777 -R *
+ 1370  sudo chown jack:jack -R *
+ 1371  sudo chmod 777 -R *
+ 1372  sudo rm .ipynb_checkpoints
+ 1373  sudo rm -R .ipynb_checkpoints
+ 1374  cd ..
+ 1375  git pull https://github.com/JupyterJones/jupyter-k3d.git
+ 1376  git pull https://github.com/JupyterJones/jupyter-k3d
+ 1377  git clone https://github.com/JupyterJones/jupyter-k3d.git
+ 1378  cd jupyter-k3d
+ 1379  ls
+ 1380  git add .
+ 1381  git commit -m "added notebook"
+ 1382  git push 
+ 1383  cd Desktop/jupyter-k3d
+ 1384  ls
+ 1385  ./menu
+ 1386  ./Menu
+ 1387  xset led on 
+ 1388  docker images
+ 1389  ./Menu
+ 1390  docker ps
+ 1391  ./Menu
+ 1392  ls
+ 1393  sub Menu
+ 1394  cd ..
+ 1395  cd JupyterNotebook-Geos
+ 1396  ls
+ 1397  ./Menu
+ 1398  ls
+ 1399  cd notebooks
+ 1400  ls
+ 1401  xset led on
+ 1402  java -h
+ 1403  java -jar Puzzle.jar
+ 1404  python Puzzle.py
+ 1405  pip install pygame
+ 1406  python Puzzle.py
+ 1407  sudo cpy -a work/. notebooks
+ 1408  sudo cp -a work/. notebooks
+ 1409  echo "# JupyterNotebook-Geos" >> README.md
+ 1410  git init
+ 1411  cd ..
+ 1412  cd JupyterNotebook-Geos
+ 1413  git init
+ 1414  git add .
+ 1415  git commit -m "First Commit"
+ 1416  ls
+ 1417  cd examples
+ 1418  ls
+ 1419  docker cp jupyter-geos:/notebooks/examples/. .
+ 1420  cd ..
+ 1421  ls
+ 1422  git add .
+ 1423  git commit -m "update data"
+ 1424  cd stormevents
+ 1425  ls
+ 1426  gunzip *.gz
+ 1427  ls
+ 1428  cd ..
+ 1429  git add .
+ 1430  git commit "reduce size"
+ 1431  git commit -m "reduce size"
+ 1432  git push
+ 1433  git pull
+ 1434  git push
+ 1435  nano sentiment
+ 1436  sudo chown jack:jack *.csv
+ 1437  sudo chmod 777 *.csv
+ 1438  git remote add origin https://github.com/JupyterJones/JupyterNotebook-Geos.git
+ 1439  git push -u origin master
+ 1440  ./Menu
+ 1441  docker inspect jupyter-geos
+ 1442  ls
+ 1443  mkdir ftp
+ 1444  cd ftp
+ 1445  wget --mirror --continue ftp://ftp.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/
+ 1446  wget ftp://ftp.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/
+ 1447  cd ..
+ 1448  ls
+ 1449  cd examples
+ 1450  ls
+ 1451  cp 9f02f077466b:/notebooks/examples .
+ 1452  cp 9f02f077466b:/notebooks/examples/. .
+ 1453  cd ..
+ 1454  cd notebooks
+ 1455  ls
+ 1456  cd examples
+ 1457  ls
+ 1458  cd pub
+ 1459  ls
+ 1460  LINKS -i "
+ 1461  https://www.xnxx.com/video-hb1yx98/sexy_school_girl_veronica_rodriguez_wants_to_fuck_you
+ 1462  "
+ 1463  LINKS -i "
+ 1464  https://www.xnxx.com/video-hhslf1c/hot_ria_rodrigez_gives_an_intense_blowjob_to_a_stranger
+ 1465  "
+ 1466  LINKS -i "
+ 1467  https://www.xnxx.com/video-jwtsf03/hottest_brunette_teen_sister_pov_riding_dick-sislovesmehq.com
+ 1468  "
+ 1469  LINKS -i "
+ 1470  https://www.xnxx.com/video-jm065b7/alex_more_is_it_fine_daddy
+ 1471  "
+ 1472  LINKS -i "
+ 1473  https://www.xnxx.com/search/Kitty+Carrera/1/
+ 1474  "
+ 1475  LINKS -i "
+ 1476  https://www.xnxx.com/video-1x840e/kitty_jung_fuck_black_cock
+ 1477  "
+ 1478  LINKS -i "
+ 1479  https://www.xnxx.com/video-g6cijea/bustin_nuts_daisy
+ 1480  "
+ 1481  LINKS -i "
+ 1482  https://www.xnxx.com/video-9s13n4f/massive_black_meat_inside_horny_juelz_ventura
+ 1483  "
+ 1484  locate jack.jpg
+ 1485  showme 
+ 1486  showme /mnt/40ec525c-34bc-44ef-99c8-53f5524ad88b/home/jack/vnc/jack.jpg
+ 1487  locate /bin/showme
+ 1488  locateAll /bin/showme
+ 1489  ls
+ 1490  cd..
+ 1491  ./ClipGrab
+ 1492  LINKS -i"
+ 1493  https://www.xnxx.com/video-mtpp998/sis_fucks_and_eats_cum_from_horny_bro-sislovesmehq.com LINKS
+ 1494  "
+ 1495  LINKS -i "
+ 1496  https://www.xnxx.com/video-mtpp998/sis_fucks_and_eats_cum_from_horny_bro-sislovesmehq.com LINKS
+ 1497  "
+ 1498  LINKS -i "
+ 1499  https://www.xnxx.com/video-mxyfz44/cute_petite_young_stepsister_kitty_carrera_pays_stepbrother_back_the_only_way_she_knows_how_pov LINKS
+ 1500  "
+ 1501  docker ps -a
+ 1502  docker ps 
+ 1503  docker start jupyter-k3d
+ 1504  ./Menu
+ 1505  cd ../JupyterNotebook-Geos
+ 1506  ls
+ 1507  ./Menu
+ 1508  ./ClipGrab
+ 1509  git add .
+ 1510  git commit -m "adding .gitignor"
+ 1511  git push
+ 1512  ls
+ 1513  sub .gitignore
+ 1514  git add .
+ 1515  git commit -m "adding .gitignor"
+ 1516  git push
+ 1517  git --help
+ 1518  git show
+ 1519  sub .gitignore
+ 1520  cd examples
+ 1521  cd notebooks
+ 1522  sub .gitignore
+ 1523  ls -la 
+ 1524  cd examples
+ 1525  ls -la 
+ 1526  cd ..
+ 1527  git -h
+ 1528  git --help
+ 1529  git add .
+ 1530  git commit -m "remove large files"
+ 1531  git push
+ 1532  git rm notebooks/examples/GEOS2.db
+ 1533  git add .
+ 1534  git rm notebooks/examples/GEOS2.db
+ 1535  git commit -m "rm large file GEOS2.db"
+ 1536  git push
+ 1537  apt search git-lfs
+ 1538  thunar
+ 1539  ned -i "
+ 1540  git rm --cached giant_file
+ 1541      # Stage our giant file for removal, but leave it on disk
+ 1542  git commit --amend -CHEAD
+ 1543      # Amend the previous commit with your change
+ 1544      # Simply making a new commit won't work, as you need
+ 1545      # to remove the file from the unpushed history as well
+ 1546  git push
+ 1547      # Push our rewritten, smaller commit
+ 1548  remove large file update git error
+ 1549  "
+ 1550  sudo chown jack:jack storms
+ 1551  sudo chown jack:jack storms/*.*
+ 1552  cp /home/jack/Desktop/JupyterNotebook-geos/*.ipynb .
+ 1553  ls
+ 1554  ls work
+ 1555  ls ../work
+ 1556  ls
+ 1557  cd ..
+ 1558  ls
+ 1559  ,/Menu
+ 1560  ./Menu
+ 1561  ls JupyterNotebook-Geos
+ 1562  chown jack:jack JupyterNotebook-Geos
+ 1563  chown -R jack:jack JupyterNotebook-Geos
+ 1564  sudo chown -R jack:jack JupyterNotebook-Geos
+ 1565  sudo chmod -R 777 JupyterNotebook-Geos
+ 1566  docker ps -a
+ 1567  cd JupyterNotebook-Geos
+ 1568  sub Menu
+ 1569  docker ps
+ 1570  docker stop jupyter-geos
+ 1571  ls
+ 1572  chmod +x Menu2
+ 1573  ls
+ 1574  ./Menu2
+ 1575  ls
+ 1576  ./gmsh
+ 1577  python onelab.py
+ 1578  ls
+ 1579  sudo ln -s gmsh /usr/local/bin
+ 1580  sudo ln -s gmsh /usr/local/bin/gmsh
+ 1581  sudo rm /usr/local/bin/gmsh
+ 1582  sudo ln -s /home/jack/Downloads/gmsh-4.0.6-Linux64/bin/gmsh /usr/local/bin/gmsh
+ 1583  gmsh
+ 1584  cd ~/Desktop
+ 1585  gmsh
+ 1586  ls
+ 1587  cd notes
+ 1588  ls
+ 1589  docker ps
+ 1590  docker images
+ 1591  cd ..
+ 1592  ls
+ 1593  thunar
+ 1594  docker ps
+ 1595  nano START
+ 1596  history >>new.txt

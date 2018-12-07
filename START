@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo xhost +
+#Make the call to docker image
+docker run -it -e DISPLAY=unix$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix -v $(pwd)/notes:/notes --privileged --name gs-container jacknorthrup/var:latest
